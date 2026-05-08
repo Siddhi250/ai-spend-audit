@@ -1,69 +1,29 @@
 # AI Spend Audit
 
-A futuristic AI SaaS dashboard that analyzes AI subscription spending and provides optimization recommendations using AI-generated insights.
-
----
+AI Spend Audit is a web application that helps individuals and businesses analyze their AI tool subscriptions, track monthly spending, and identify opportunities to reduce unnecessary expenses.
 
 ## Features
-
-- AI subscription audit
-- Cost optimization recommendations
-- AI-generated summaries
-- Analytics dashboard
-- Glassmorphism futuristic UI
-- Interactive charts
-- Responsive design
-- OpenAI API integration
-
----
+- AI spending dashboard
+- Cost tracking interface
+- AI subscription analysis
+- Modern responsive UI
+- Deployment using Vercel
+- GitHub version control
 
 ## Tech Stack
-
 - Next.js
 - React
 - Tailwind CSS
 - TypeScript
-- Recharts
-- OpenAI API
+- Vercel
 
----
+## Live Demo
+https://ai-spend-audit-nine.vercel.app
 
-## Pages
+## GitHub Repository
+https://github.com/Siddhi250/ai-spend-audit
 
-### Homepage
-Futuristic landing page with AI SaaS design and glowing dashboard UI.
-
-### Audit Page
-Interactive form for analyzing AI subscription costs and usage.
-
-### Result Dashboard
-Displays:
-- spend analytics
-- optimization recommendations
-- AI-generated insights
-- savings estimation charts
-
----
-
-## Run Locally
-
+## Installation
 ```bash
 npm install
 npm run dev
-```
-
----
-
-## Environment Variables
-
-Create `.env.local`
-
-```env
-OPENAI_API_KEY=your_api_key_here
-```
-
----
-
-## Author
-
-Siddhi Kathe
